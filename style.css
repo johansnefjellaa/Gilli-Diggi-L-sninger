@@ -489,3 +489,13 @@ body {
     font-size: 1.7rem;
   }
 }
+
+.video-section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.video-section video {
+  max-width: 100%;
+  border-radius: 12px;
+}
